@@ -1,5 +1,3 @@
-# podivat se na certose, proc mi to jde na kali, ale tady ne
-
 # Solax MQTT Filter - MITM Proxy
 
 A Man-in-the-Middle (MITM) proxy for Solax inverters that filters and controls MQTT communication between your Solax inverter and the Solax cloud.
@@ -245,3 +243,4 @@ This project is released into the public domain. Feel free to use, modify, and d
 
 **Version:** 1.0.0
 **Last Updated:** 2025-11-24
+
